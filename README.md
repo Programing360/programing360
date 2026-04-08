@@ -21,25 +21,9 @@
 <a href="https://instagram.com/https://www.instagram.com/limon.fh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/limon.fh" height="30" width="40" /></a>
 </p>
 <hr />
-<div style="display: flex; align-items: flex-start; gap: 40px;">
-  <!-- Left side: Info List -->
-  <div>
-    <p style="font-size: 36px; font-weight: 700;">Talking about personal stuff:</p>
-    <ul>
-      <li>I'm Fardhan Hasan Limon</li>
-      <li>Currently Working</li>
-      <li>Exploring Next.js and Prompt Engineering</li>
-      <li>Reach out via Email: <a href="mailto:fhlimon360@gmail.com">fhlimon360@gmail.com</a></li>
-    </ul>
-  </div>
-
-  <!-- Right side: Image -->
-  <div>
-    <img 
-      src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" 
-      alt="Fardhan Hasan Limon" 
-      width="250" 
-      style="border-radius: 10px;"
-    />
-  </div>
-</div>
+| Talking about personal stuff: | <img src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" width="250" style="border-radius:10px;"> |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| • I'm Fardhan Hasan Limon     |                                                                                                                                |
+| • Currently Working            |                                                                                                                                |
+| • Exploring Next.js and Prompt Engineering |                                                                                                                      |
+| • Reach out via Email: [fhlimon360@gmail.com](mailto:fhlimon360@gmail.com) |                                                                                             |
