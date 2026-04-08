@@ -6,8 +6,12 @@
   />
 </p>
 <hr />
-## About Me
+<h2 align="center" style="font-size: 36px; font-weight: 700;">
+  About Me
+</h2>
 
-I am a passionate Web Developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy working with HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB.
-
-I love learning new technologies, improving my development skills, and creating projects that solve real-world problems. My goal is to become a skilled Full Stack Developer and build impactful digital experiences.
+<p align="center" style="font-size: 20px; font-weight: 600; max-width: 900px;">
+  I am a passionate Web Developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy working with HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, and MongoDB.
+  <br /><br />
+  I love learning new technologies, improving my development skills, and creating projects that solve real-world problems. My goal is to become a skilled Full Stack Developer and build impactful digital experiences.
+</p>
