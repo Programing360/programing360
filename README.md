@@ -63,6 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
 </p>
 
+```javascript
 const fhlimon = {
   pronouns: "he/him",
   personal_info: {
@@ -81,8 +82,8 @@ const fhlimon = {
     "Tailwind CSS"
   ],
   techCommittees: [
-    { coorganizer: "National University" },
-    { Speaker: "English" },
-    { Monitor: "Web Developer" }
+    { role: "Co-organizer" },
+    { role: "Speaker" },
+    { role: "Monitor", field: "Web Developer" }
   ]
 };
