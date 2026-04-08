@@ -21,12 +21,10 @@
 <a href="https://instagram.com/https://www.instagram.com/limon.fh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/limon.fh" height="30" width="40" /></a>
 </p>
 <hr />
-<p align="center">
-  Talking about personal stuff:
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A1F44&center=true&vCenter=true&width=700&lines=•+I'm+Fardhan+Hasan+Limon;•+Currently+Working;•+Exploring+Next.js+and+Prompt+Engineering;•+Reach+out+via+Email:+fhlimon360@gmail.com"
-    alt="Typing SVG"
-  />
-</p>
+<p>Talking about personal stuff:</p>
+<ul>
+  <li>I'm Fardhan Hasan Limon</li>
+  <li>Currently Working</li>
+  <li>Exploring Next.js and Prompt Engineering</li>
+  <li>Reach out via Email: <a href="mailto:fhlimon360@gmail.com">fhlimon360@gmail.com</a></li>
+</ul>
