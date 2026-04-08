@@ -15,15 +15,18 @@
   <br /><br />
   I love learning new technologies, improving my development skills, and creating projects that solve real-world problems. My goal is to become a skilled Full Stack Developer and build impactful digital experiences.
 </p>
-<hr />
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fardhan-hasan-limon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fardhan-hasan-limon/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/md.limon.280500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.limon.280500" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/limon.fh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/limon.fh" height="30" width="40" /></a>
 </p>
+<hr />
+<p align="center">
+  Talking about personal stuff:
+</p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A1F44&center=true&vCenter=true&width=700&lines=•+I'm+Fardhan+Hasan+Limon;•+Currently+Working;•+Exploring+Next.js+and+Prompt+Engineering;•+Reach+me+out+Email:+fhlimon360@gmail.com"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A1F44&center=true&vCenter=true&width=700&lines=•+I'm+Fardhan+Hasan+Limon;•+Currently+Working;•+Exploring+Next.js+and+Prompt+Engineering;•+Reach+out+via+Email:+fhlimon360@gmail.com"
     alt="Typing SVG"
   />
 </p>
