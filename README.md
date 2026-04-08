@@ -15,6 +15,7 @@
   <br /><br />
   I love learning new technologies, improving my development skills, and creating projects that solve real-world problems. My goal is to become a skilled Full Stack Developer and build impactful digital experiences.
 </p>
+<hr />
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fardhan-hasan-limon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fardhan-hasan-limon/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/md.limon.280500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.limon.280500" height="30" width="40" /></a>
