@@ -83,8 +83,7 @@
 
 ---
 
-<!-- Skills Section -->
-<p align="center" style="font-size:24px; font-weight:600;">💻 Skills</p>
+### 💻 Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin:5px;" />
@@ -97,7 +96,7 @@
 
 ---
 
-<!-- GitHub Stats -->
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhlimon360&show_icons=true&theme=radical&hide_title=true" alt="Fardhan's GitHub Stats" />
 </p>
