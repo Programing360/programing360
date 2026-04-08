@@ -44,7 +44,7 @@
   </div>
 </div>                                                                                            |
 <hr />
-<p align="center" style="font-size:24px; font-weight:600;">💻 Languages & Fremeworks & Tools</p>
+<p align="center" style="font-size: 36px; font-weight: 700;">💻 Languages & Fremeworks & Tools</p>
 
 <p align="center">
   <!-- HTML -->
@@ -60,7 +60,7 @@
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin:5px;" />
   <!-- Tailwind CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
 </p>
 
 ```javascript
