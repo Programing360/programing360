@@ -6,7 +6,7 @@
   />
 </p>
 <hr />
-<h2 align="center" style="font-size: 36px; font-weight: 700;">
+<h2 align="center"style="font-size: 36px; font-weight: 700;">
   About Me
 </h2>
 
@@ -21,10 +21,21 @@
 <a href="https://instagram.com/https://www.instagram.com/limon.fh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/limon.fh" height="30" width="40" /></a>
 </p>
 <hr />
-<p>Talking about personal stuff:</p>
-<ul>
-  <li>I'm Fardhan Hasan Limon</li>
-  <li>Currently Working</li>
-  <li>Exploring Next.js and Prompt Engineering</li>
-  <li>Reach out via Email: <a href="mailto:fhlimon360@gmail.com">fhlimon360@gmail.com</a></li>
-</ul>
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+  <!-- Left side: Info List -->
+  <div>
+    <p style="font-size: 36px; font-weight: 700;">Talking about personal stuff:</p>
+    <ul>
+      <li>I'm Fardhan Hasan Limon</li>
+      <li>Currently Working</li>
+      <li>Exploring Next.js and Prompt Engineering</li>
+      <li>Reach out via Email: <a href="mailto:fhlimon360@gmail.com">fhlimon360@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <!-- Right side: Image -->
+  <div>
+   <img  width="250" style="border-radius: 10px;" ![digital-marketing-commerce-online-sale-concept-promotion-of-products-or-services-through-digital-channels-search-engine-social-media-email-website-digital-marketing-strategies-and-goals-seo-ppc-photo](https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2)
+ />
+  </div>
+</div>
