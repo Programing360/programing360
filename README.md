@@ -44,8 +44,7 @@
   </div>
 </div>                                                                                            |
 <hr />
-<!-- Skills Section -->
-<p align="center" style="font-size:24px; font-weight:600;">💻 Skills</p>
+<p align="center" style="font-size:24px; font-weight:600;">💻 Languages & Fremeworks & Tools</p>
 
 <p align="center">
   <!-- HTML -->
@@ -61,5 +60,52 @@
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin:5px;" />
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+</p>
+
+<!-- Personal Info + Image -->
+<table>
+<tr>
+<td>
+
+### Talking about personal stuff:
+- I'm Fardhan Hasan Limon
+- Currently Working
+- Exploring Next.js and Prompt Engineering
+- Reach out via Email: [fhlimon360@gmail.com](mailto:fhlimon360@gmail.com)
+
+</td>
+<td>
+<img src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" width="250" style="border-radius:10px;">
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Skills Section -->
+<p align="center" style="font-size:24px; font-weight:600;">💻 Skills</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fhlimon360&show_icons=true&theme=radical&hide_title=true" alt="Fardhan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhlimon360&theme=radical" alt="Fardhan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhlimon360&layout=compact&theme=radical" alt="Fardhan's Top Languages" />
 </p>
