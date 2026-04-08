@@ -35,7 +35,11 @@
 
   <!-- Right side: Image -->
   <div>
-   <img  width="250" style="border-radius: 10px;" ![digital-marketing-commerce-online-sale-concept-promotion-of-products-or-services-through-digital-channels-search-engine-social-media-email-website-digital-marketing-strategies-and-goals-seo-ppc-photo](https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2)
- />
+    <img 
+      src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" 
+      alt="Fardhan Hasan Limon" 
+      width="250" 
+      style="border-radius: 10px;"
+    />
   </div>
 </div>
