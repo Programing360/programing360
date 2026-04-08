@@ -21,9 +21,45 @@
 <a href="https://instagram.com/https://www.instagram.com/limon.fh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/limon.fh" height="30" width="40" /></a>
 </p>
 <hr />
-| Talking about personal stuff: | <img src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" width="250" style="border-radius:10px;"> |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| • I'm Fardhan Hasan Limon     |                                                                                                                                |
-| • Currently Working            |                                                                                                                                |
-| • Exploring Next.js and Prompt Engineering |                                                                                                                      |
-| • Reach out via Email: [fhlimon360@gmail.com](mailto:fhlimon360@gmail.com) |                                                                                             |
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+  <!-- Left side: Info List -->
+  <div>
+    <p style="font-size: 36px; font-weight: 700;">Talking about personal stuff:</p>
+    <ul>
+      <li>I'm Fardhan Hasan Limon</li>
+      <li>Currently Working</li>
+      <li>Exploring Next.js and Prompt Engineering</li>
+      <li>Reach out via Email: <a href="mailto:fhlimon360@gmail.com">fhlimon360@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <!-- Right side: Image -->
+  <div>
+    <img 
+      src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" 
+      alt="Fardhan Hasan Limon" 
+      width="250" 
+      style="border-radius: 10px;"
+    />
+  </div>
+</div>                                                                                            |
+<hr />
+<!-- Skills Section -->
+<p align="center" style="font-size:24px; font-weight:600;">💻 Skills</p>
+
+<p align="center">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin:5px;" />
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin:5px;" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:5px;" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:5px;" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin:5px;" />
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin:5px;" />
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+</p>
