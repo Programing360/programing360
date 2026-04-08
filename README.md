@@ -72,18 +72,17 @@ const fhlimon = {
     email: "fhlimon360@gmail.com"
   },
   skills: [
-    { name: "HTML", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
-    { name: "CSS", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
-    { name: "JavaScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-    { name: "React", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
-    { name: "Node.js", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
-    { name: "Express", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" },
-    { name: "Tailwind CSS", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" }
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "Tailwind CSS"
   ],
-  github_stats: {
-    username: "fhlimon360",
-    stats_card: "https://github-readme-stats.vercel.app/api?username=fhlimon360&show_icons=true&theme=radical&hide_title=true",
-    streak: "https://github-readme-streak-stats.herokuapp.com/?user=fhlimon360&theme=radical",
-    top_languages: "https://github-readme-stats.vercel.app/api/top-langs/?username=fhlimon360&layout=compact&theme=radical"
-  }
+  techCommittees: [
+    { coorganizer: "National University" },
+    { Speaker: "English" },
+    { Monitor: "Web Developer" }
+  ]
 };
