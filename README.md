@@ -77,24 +77,28 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+<div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=programing360&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=programing360&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=programing360&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=programing360&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
 
 ---
 
