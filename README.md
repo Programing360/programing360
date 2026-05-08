@@ -60,26 +60,25 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=fhlimon&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
-
+  
   <img 
-    src="https://streak-stats.demolab.com?user=fhlimon&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=programing360&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhlimon&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=programing360&layout=compact&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
+
 
 ---
 
