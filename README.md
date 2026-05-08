@@ -21,28 +21,38 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"/>
+<p align="center">
+  <img 
+    alt="Coding" 
+    width="260" 
+    src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"
+  />
+</p>
 
-- 🌱 Currently exploring **Next.js & Prompt Engineering**
-- 💻 Passionate about building **modern web applications**
-- ⚡ Love working with **React, Node.js & MongoDB**
-- 🎯 Goal: Become a skilled **Full Stack Developer**
-- 📫 Reach me at: **fhlimon360@gmail.com**
-- 🚀 Always learning and improving my development skills
+<p align="center">
+🌱 Currently exploring <b>Next.js & Prompt Engineering</b><br/>
+💻 Passionate about building <b>modern web applications</b><br/>
+⚡ Love working with <b>React, Node.js & MongoDB</b><br/>
+🎯 Goal: Become a skilled <b>Full Stack Developer</b><br/>
+📫 Reach me at: <b>fhlimon360@gmail.com</b><br/>
+🚀 Always learning and improving my development skills
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/fardhan-hasan-limon/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
 <a href="https://www.facebook.com/md.limon.280500" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
 </a>
+
 <a href="https://www.instagram.com/limon.fh" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
@@ -50,15 +60,15 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
 </p>
 
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img 
@@ -67,7 +77,7 @@
   />
   
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=programing360&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=programing360&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
@@ -79,10 +89,11 @@
   />
 </p>
 
-
 ---
 
-## 🛠 Current Focus
+<h2 align="center">🛠 Current Focus</h2>
+
+<p align="center">
 
 ```js
 const limon = {
@@ -96,3 +107,5 @@ const limon = {
     "Problem Solving"
   ],
 };
+
+<h3 align="center"> 💙 Thanks for visiting my profile 💙 </h3>
