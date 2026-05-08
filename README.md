@@ -2,15 +2,13 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/dab2c114-fa87-4818-a916-1af04e6a5fe6" 
-    alt="Fardhan Hasan Limon Banner" 
-    width="100%" 
+    alt="Banner"
+    width="100%"
   />
 </p>
 
 <!-- Typing Animation -->
-<h1 align="center">
-  Hi 👋, I'm Fardhan Hasan Limon
-</h1>
+<h1 align="center">Hi 👋, I'm Fardhan Hasan Limon</h1>
 
 <p align="center">
   <img
@@ -23,22 +21,31 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-  <img 
-    alt="Coding" 
-    width="260" 
-    src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"
-  />
-</p>
+<table align="center">
+<tr border="none">
+<td width="55%" align="left">
 
-<p align="center">
-🌱 Currently exploring <b>Next.js & Prompt Engineering</b><br/>
-💻 Passionate about building <b>modern web applications</b><br/>
-⚡ Love working with <b>React, Node.js & MongoDB</b><br/>
-🎯 Goal: Become a skilled <b>Full Stack Developer</b><br/>
-📫 Reach me at: <b>fhlimon360@gmail.com</b><br/>
-🚀 Always learning and improving my development skills
-</p>
+- 🌱 Currently exploring **Next.js & Prompt Engineering**
+- 💻 Passionate about building **modern web applications**
+- ⚡ Love working with **React, Node.js & MongoDB**
+- 🎯 Goal: Become a skilled **Full Stack Developer**
+- 📫 Reach me at: **fhlimon360@gmail.com**
+- 🚀 Always learning and improving my development skills
+
+</td>
+
+<td width="45%" align="center">
+
+<img 
+  align="center" 
+  alt="Coding" 
+  width="260" 
+  src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,20 +79,20 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
   />
-  
+
   <img 
-    src="https://streak-stats.demolab.com?user=programing360&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://streak-stats.demolab.com?user=programing360&theme=tokyonight&hide_border=true"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=programing360&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=programing360&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
   />
 </p>
 
@@ -93,7 +100,7 @@
 
 <h2 align="center">🛠 Current Focus</h2>
 
-<p align="center">
+<div align="center">
 
 ```js
 const limon = {
@@ -107,5 +114,10 @@ const limon = {
     "Problem Solving"
   ],
 };
+```
 
-<h3 align="center"> 💙 Thanks for visiting my profile 💙 </h3>
+</div>
+
+---
+
+<h3 align="center">💙 Thanks for visiting my profile 💙</h3>
