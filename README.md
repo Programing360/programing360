@@ -104,8 +104,6 @@
 
 <h2 align="center">🛠 Current Focus</h2>
 
-<div align="center">
-
 ```js
 const limon = {
   role: "Full Stack Web Developer",
@@ -119,8 +117,6 @@ const limon = {
   ],
 };
 ```
-
-</div>
 
 ---
 
