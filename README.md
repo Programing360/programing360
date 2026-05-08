@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 <a href="https://www.facebook.com/md.limon.280500" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
 </a>
 <a href="https://www.instagram.com/limon.fh" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" />
@@ -64,19 +64,19 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fhlimon&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
-  
+
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=fhlimon&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhlimon&layout=compact&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
