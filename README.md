@@ -27,7 +27,7 @@
 
 - 🌱 Currently exploring **Next.js & Prompt Engineering**
 - 💻 Passionate about building **modern web applications**
-- ⚡ Love working with **React, Node.js & MongoDB**
+- ⚡ Love working with **React, Node.js, Express.js, MongoDB & Supabase **
 - 🎯 Goal: Become a skilled **Full Stack Developer**
 - 📫 Reach me at: **fhlimon360@gmail.com**
 - 🚀 Always learning and improving my development skills
