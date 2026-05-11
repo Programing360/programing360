@@ -71,6 +71,8 @@
 
 ### Front-end
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hero UI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7F3FBF?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -99,9 +101,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="">
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=programing360&show_icons=true&theme=tokyonight&hide_border=true"
