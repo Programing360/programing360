@@ -115,14 +115,14 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </p>
 
   <p>
-    <a href="https://github.com/Programming360/Zeromiro" target="_blank">
+    <a href="https://github.com/Programing360/gadget-e-commerce-project" target="_blank">
       <strong>🔗 View Repository</strong>
     </a>
   </p>
@@ -132,11 +132,11 @@
       <h3>📈 AI-Powered Analytics Dashboard</h3>
       <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
       </p>
-      <a href="https://github.com/Programing360" target="_blank"><strong>🔗 View Repository</strong></a>
+      <a href="https://github.com/Programing360/typescript-basic-learn" target="_blank"><strong>🔗 View Repository</strong></a>
     </td>
   </tr>
 </table>
@@ -146,11 +146,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programing360&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Programing360&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programing360&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
