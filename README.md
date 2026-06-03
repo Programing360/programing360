@@ -1,6 +1,6 @@
 <!-- VISITOR COUNTER & BADGES -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Programming360&label=PROFILE+VIEWS&color=007BFF&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Programing360&label=PROFILE+VIEWS&color=007BFF&style=flat-square" alt="Visitor Counter" />
 </p>
 
 <!-- HEADER SECTION -->
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Programming360;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Programing360;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Programming360"><img src="https://img.shields.io/github/followers/Programming360?label=Follow%20%40Programming360&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/Programming360"><img src="https://img.shields.io/github/followers/Programing360?label=Follow%20%40Programing360&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/fardhan-hasan-limon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Programming360" target="_blank">
+  <a href="https://github.com/Programing360" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/md.limon.280500" target="_blank">
@@ -105,16 +105,29 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 SaaS E-Commerce Platform</h3>
-      <p>A secure multi-vendor store featuring lightning-fast data fetching, instant caching, and payment handling structures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" alt="Supabase" />
-      </p>
-      <a href="https://github.com/Programming360" target="_blank"><strong>🔗 View Repository</strong></a>
-    </td>
+   <td width="50%" valign="top">
+
+  <h3>🛒 Zeromiro E-Commerce Platform</h3>
+
+  <p>
+    A secure multi-vendor e-commerce platform with optimized performance, 
+    fast data fetching, caching system, and scalable architecture.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </p>
+
+  <p>
+    <a href="https://github.com/Programming360/Zeromiro" target="_blank">
+      <strong>🔗 View Repository</strong>
+    </a>
+  </p>
+
+</td>
     <td width="50%" valign="top">
       <h3>📈 AI-Powered Analytics Dashboard</h3>
       <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
@@ -123,7 +136,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
       </p>
-      <a href="https://github.com/Programming360" target="_blank"><strong>🔗 View Repository</strong></a>
+      <a href="https://github.com/Programing360" target="_blank"><strong>🔗 View Repository</strong></a>
     </td>
   </tr>
 </table>
@@ -133,11 +146,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programming360&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programming360&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programing360&theme=tokyonight" />
 </p>
 
 ---
@@ -145,7 +158,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programming360&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programing360&theme=tokyo-night" />
 </p>
 
 ---
