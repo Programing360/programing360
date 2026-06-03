@@ -19,27 +19,34 @@
 
 ---
 
-<!-- About Me Section with Premium Animation -->
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <ul>
-        <li>🌱 Currently deeply diving into <strong>Next.js & Prompt Engineering</strong>.</li>
-        <li>💻 Passionate about building modern, scalable, and user-centric web applications.</li>
-        <li>⚡ Highly proficient with the <strong>MERN Stack, Next.js, and Supabase</strong>.</li>
-        <li>🎯 Goal: To engineer high-performance systems as an expert Full Stack Developer.</li>
-        <li>📫 Let's collaborate: <a href="mailto:fhlimon360@gmail.com"><strong>fhlimon360@gmail.com</strong></a></li>
-        <li>🚀 Always learning, building, and pushing the boundaries of web technologies.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img alt="Coding Animation" width="280" src="http://googleusercontent.com/image_collection/image_retrieval/3228390739767187574" />
-    </td>
-  </tr>
+<table align="center">
+<tr border="none">
+<td width="55%" align="left">
+
+- 🌱 Currently exploring **Next.js & Prompt Engineering**
+- 💻 Passionate about building **modern web applications**
+- ⚡ Love working with **React, Node.js, Express.js, MongoDB & Supabase **
+- 🎯 Goal: Become a skilled **Full Stack Developer**
+- 📫 Reach me at: **fhlimon360@gmail.com**
+- 🚀 Always learning and improving my development skills
+
+</td>
+
+<td width="45%" align="center">
+
+<img 
+  align="center" 
+  alt="Coding" 
+  width="260" 
+  src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"
+/>
+
+</td>
+</tr>
 </table>
+
 ---
 
 <h2 align="">🌐 Connect With Me</h2>
