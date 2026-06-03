@@ -1,124 +1,140 @@
-<!-- Banner -->
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/dab2c114-fa87-4818-a916-1af04e6a5fe6" 
-    alt="Banner"
-    width="100%"
-  />
+<!-- VISITOR COUNTER & BADGES -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Programming360&label=PROFILE+VIEWS&color=007BFF&style=flat-square" alt="Visitor Counter" />
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">Hi 👋, I'm Fardhan Hasan Limon</h1>
+<!-- HEADER SECTION -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dab2c114-fa87-4818-a916-1af04e6a5fe6" alt="Futuristic Dev Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Programming360;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
+</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A1F44&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+Developer;MERN+Stack+Developer;Node.js+Enthusiast;Always+Learning+New+Technologies"
-    alt="Typing SVG"
-  />
+  <strong>🚀 Transforming complex problems into elegant, production-ready digital architectures.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Programming360"><img src="https://img.shields.io/github/followers/Programming360?label=Follow%20%40Programming360&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<!-- ABOUT ME SECTION -->
+## 🧑‍💻 About Me
 
-<table align="center">
-<tr border="none">
-<td width="55%" align="left">
-
-- 🌱 Currently exploring **Next.js & Prompt Engineering**
-- 💻 Passionate about building **modern web applications**
-- ⚡ Love working with **React, Node.js, Express.js, MongoDB & Supabase **
-- 🎯 Goal: Become a skilled **Full Stack Developer**
-- 📫 Reach me at: **fhlimon360@gmail.com**
-- 🚀 Always learning and improving my development skills
-
-</td>
-
-<td width="45%" align="center">
-
-<img 
-  align="center" 
-  alt="Coding" 
-  width="260" 
-  src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2"
-/>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate <strong>Web Developer</strong> based in <strong>Bangladesh</strong>, dedicated to engineering robust, high-performance web applications. Combining clean semantic markup with contemporary runtime performance, I structure scalable applications across the full stack ecosystem.</p>
+      <p>As an active industry job seeker, I treat software engineering as an art form—prioritizing clean architecture, comprehensive database design, and intuitive user patterns.</p>
+      <ul>
+        <li>📍 <strong>Location:</strong> Bangladesh</li>
+        <li>🔭 <strong>Current Role:</strong> Full Stack Web Developer (Open to Work)</li>
+        <li>🌱 <strong>Deep Diving Into:</strong> Advanced Next.js paradigms, State Architecture, and Prompt Engineering</li>
+        <li>🎯 <strong>Career Goal:</strong> Drive business values at scale as an elite Full-Stack System Architect</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img alt="Coding Animation" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Programming360&repo=Programming360&theme=tokyonight&show_owner=false&hide_border=true" style="display:none;" />
+      <img alt="Developer Workflow" width="260" src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="">🌐 Connect With Me</h2>
+<!-- SOCIAL LINKS SECTION -->
+## 🌐 Connect With Me
 
-<p align="">
-<a href="https://www.linkedin.com/in/fardhan-hasan-limon/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="https://www.facebook.com/md.limon.280500" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
-</a>
-
-<a href="https://www.instagram.com/limon.fh" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fardhan-hasan-limon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Programming360" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/md.limon.280500" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:fhlimon360@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+<!-- TECH STACK SECTION -->
+## 💻 Tech Stack
 
-### Front-end
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Hero UI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7F3FBF?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🚀 Front-end Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" alt="Hero UI" />
+</p>
 
-### Back-end
-![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-1C2B4A?style=for-the-badge&logo=express&logoColor=white)
+### ⚙️ Back-end & Database Engine
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Databases
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
----
-
-
-
-<h2 align="center">🛠 Current Focus</h2>
-
-```js
-const limon = {
-  role: "Full Stack Web Developer",
-  learning: ["Next.js", "Prompt Engineering"],
-  frontend: ["React", "Tailwind CSS", "JavaScript"],
-  backend: ["Node.js", "Express.js", "MongoDB"],
-  passions: [
-    "Building Web Applications",
-    "Learning New Technologies",
-    "Problem Solving"
-  ],
-};
-```
+### 🛠️ Industry Tooling & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
-<h3 align="center">💙 Thanks for visiting my profile 💙</h3>
+<!-- PROJECTS SECTION -->
+## 📂 Featured Enterprise Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 SaaS E-Commerce Platform</h3>
+      <p>A secure multi-vendor store featuring lightning-fast data fetching, instant caching, and payment handling structures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" alt="Supabase" />
+      </p>
+      <a href="https://github.com/Programming360" target="_blank"><strong>🔗 View Repository</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 AI-Powered Analytics Dashboard</h3>
+      <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
+      </p>
+      <a href="https://github.com/Programming360" target="_blank"><strong>🔗 View Repository</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 2026 ROADMAP GOALS SECTION -->
+## 🎯 2026 Developer Roadmap
+
+```geomancy
+🟩 Achieve AWS Certified Cloud Practitioner Validation
+🟩 Deploy 3 Production-Grade SaaS platforms built on Serverless Architectures
+🟩 Maintain a 365-day consistent green contribution layout
+🟩 Secure a senior full-stack assignment within a distributed product company
