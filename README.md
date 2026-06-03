@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-     <img src="https://lottie.host/2f6d3c2c-2c0c-4c55-9d0a-8c2d9b9c3f8a/animated-code.json" width="250"/>
+    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
