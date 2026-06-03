@@ -38,8 +38,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img alt="Coding Animation" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Programming360&repo=Programming360&theme=tokyonight&show_owner=false&hide_border=true" style="display:none;" />
-      <img alt="Developer Workflow" width="260" src="https://github.com/user-attachments/assets/749f6696-0ea1-4c6f-a63c-f0cf9a0ba9a2" />
+     <img src="https://lottie.host/2f6d3c2c-2c0c-4c55-9d0a-8c2d9b9c3f8a/animated-code.json" width="250"/>
     </td>
   </tr>
 </table>
