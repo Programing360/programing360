@@ -156,9 +156,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programing360&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Programing360&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ## 📈 Activity Graph
 
