@@ -190,3 +190,13 @@
 🟩 Deploy 3 Production-Grade SaaS platforms built on Serverless Architectures
 🟩 Maintain a 365-day consistent green contribution layout
 🟩 Secure a senior full-stack assignment within a distributed product company
+
+---
+
+## 💬 Quote
+
+> “Small progress every day leads to big results.”
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
