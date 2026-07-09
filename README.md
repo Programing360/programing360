@@ -1,197 +1,357 @@
-<!-- VISITOR COUNTER & BADGES -->
+<!-- ========================================= -->
+<!--              PROFILE HEADER               -->
+<!-- ========================================= -->
+
+<!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Programing360&label=PROFILE+VIEWS&color=007BFF&style=flat-square" alt="Visitor Counter" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Programing360&label=PROFILE+VIEWS&color=007BFF&style=flat-square" 
+    alt="Profile Views"
+  />
 </p>
 
-<!-- HEADER SECTION -->
+
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dab2c114-fa87-4818-a916-1af04e6a5fe6" alt="Futuristic Dev Banner" width="100%" />
+  <img 
+    src="https://github.com/user-attachments/assets/dab2c114-fa87-4818-a916-1af04e6a5fe6"
+    alt="Developer Banner"
+    width="100%"
+  />
 </p>
 
+<h1 align="center">Hi 👋, I'm Fardhan Hasan Limon</h1>
+
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Fardhan+Hasan+Limon;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
+
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=750&lines=Passoniate+Full+Stack+Web+Developer;Building+Modern+Web+Applications;Exploring+Next.js+%26+TypeScript"
+alt="Typing Header"
+/>
+
 </h1>
 
-<p align="center">
-  <strong>🚀 Transforming complex problems into elegant, production-ready digital architectures.</strong>
-</p>
 
 <p align="center">
-  <a href="https://github.com/Programming360"><img src="https://img.shields.io/github/followers/Programing360?label=Follow%20%40Programing360&style=social" alt="GitHub Followers"></a>
+
+<strong>
+🚀 Building scalable, high-performance and user-friendly digital experiences.
+</strong>
+
 </p>
 
----
-
-<!-- ABOUT ME SECTION -->
-## 🧑‍💻 About Me
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a passionate <strong>Web Developer</strong> based in <strong>Bangladesh</strong>, dedicated to engineering robust, high-performance web applications. Combining clean semantic markup with contemporary runtime performance, I structure scalable applications across the full stack ecosystem.</p>
-      <p>As an active industry job seeker, I treat software engineering as an art form—prioritizing clean architecture, comprehensive database design, and intuitive user patterns.</p>
-      <ul>
-        <li>📍 <strong>Location:</strong> Bangladesh</li>
-        <li>🔭 <strong>Current Role:</strong> Full Stack Web Developer (Open to Work)</li>
-        <li>🌱 <strong>Deep Diving Into:</strong> Advanced Next.js paradigms, State Architecture, and Prompt Engineering</li>
-        <li>🎯 <strong>Career Goal:</strong> Drive business values at scale as an elite Full-Stack System Architect</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- SOCIAL LINKS SECTION -->
-## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fardhan-hasan-limon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Programing360" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/md.limon.280500" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:fhlimon360@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img 
+src="https://img.shields.io/github/followers/Programing360?label=Follow%20%40Programing360&style=social"
+alt="GitHub Followers"
+/>
 </p>
+
 
 ---
 
-<!-- TECH STACK SECTION -->
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### 🚀 Front-end Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" alt="Hero UI" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+I'm a passionate **Full Stack Web Developer** from **Bangladesh** who loves building modern, responsive, and scalable web applications.
 
-### ⚙️ Back-end & Database Engine
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+I specialize in creating clean frontend experiences and efficient backend systems using modern technologies.
 
-### 🛠️ Industry Tooling & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architecture, and Database Design** while looking for opportunities to grow as a software developer.
+
+
+---
+<!-- ========================================= -->
+<!--          CURRENT ACTIVITIES SECTION       -->
+<!-- ========================================= -->
+
+## 🌱 Current Activities
+
+- 🔭 Exploring **Next.js App Router & Server Components**
+- 🚀 Building a **Tourism Website with modern UI/UX**
+- 📚 Learning **TypeScript, PostgreSQL & System Design**
+- ⚡ Improving **Data Structures and Problem Solving Skills**
+- 💼 Looking for **Frontend / Full Stack Developer opportunities**
+- 🧠 Exploring AI integration with modern web applications
+
 
 ---
 
-<!-- PROJECTS SECTION -->
-## 📂 Featured Enterprise Projects
+## 🎯 Developer Focus
 
 <table width="100%">
-  <tr>
-   <td width="50%" valign="top">
+<tr>
 
-  <h3>🛒 Zeromiro E-Commerce Platform</h3>
+<td width="50%" valign="top">
 
-  <p>
-    A secure multi-vendor e-commerce platform with optimized performance, 
-    fast data fetching, caching system, and scalable architecture.
-  </p>
+### 💻 What I Build
 
-  <p>
-     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </p>
-
-  <p>
-    <a href="https://github.com/Programing360/gadget-e-commerce-project" target="_blank">
-      <strong>🔗 View Repository</strong>
-    </a>
-  </p>
+- Responsive Web Applications
+- Full Stack Applications
+- RESTful APIs
+- Authentication Systems
+- E-commerce Platforms
+- Dashboard Applications
 
 </td>
-    <td width="50%" valign="top">
-      <h3>📈 AI-Powered Analytics Dashboard</h3>
-      <p>A real-time metrics layout pulling raw application telemetries and processing insights cleanly with specialized API endpoints.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="Mongo" />
-      </p>
-      <a href="https://github.com/Programing360/typescript-basic-learn" target="_blank"><strong>🔗 View Repository</strong></a>
-    </td>
-  </tr>
+
+
+<td width="50%" valign="top">
+
+### 🚀 What I Improve
+
+- Clean Code Architecture
+- Performance Optimization
+- Database Design
+- UI/UX Experience
+- Scalable Backend Systems
+
+</td>
+
+</tr>
 </table>
 
+
+--- 
+<!-- ========================================= -->
+<!--              PROJECT SECTION              -->
+<!-- ========================================= -->
+
+
+# 💻 Skills
+
+## 🎨 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase"/>
+
+</p>
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Backend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<p align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Programing360&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programing360&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Programing360&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 👀 Visitor Count
+## 🛠 Tools
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Programming360&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </p>
 
 ---
 
-<!-- 2026 ROADMAP GOALS SECTION -->
-## 🎯 2026 Developer Roadmap
+# 🌐 Connect With Me
 
-```geomancy
-🟩 Achieve AWS Certified Cloud Practitioner Validation
-🟩 Deploy 3 Production-Grade SaaS platforms built on Serverless Architectures
-🟩 Maintain a 365-day consistent green contribution layout
-🟩 Secure a senior full-stack assignment within a distributed product company
+<p align="left">
+
+<a href="https://github.com/Programing360">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+
+<table width="100%">
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+
+## 🛒 Zeromiro E-Commerce
+
+
+A full-stack e-commerce platform with modern UI, authentication, product management, cart system, order management, and optimized API handling.
+
+
+### Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind"/>
+
+
+<br/>
+
+
+<a href="https://github.com/Programing360/gadget-e-commerce-project">
+
+🔗 View Repository
+
+</a>
+
+
+</td>
+
+
+
+<td width="50%" valign="top">
+
+
+## 🤖 Solver AI
+
+
+An AI-powered problem solving assistant built using Gemini API with image upload support and interactive conversations.
+
+
+### Technologies
+
+
+<img src="https://skillicons.dev/icons?i=nextjs,javascript,nodejs"/>
+
+
+<br/>
+
+
+<a href="https://github.com/Programing360">
+
+🔗 View Repository
+
+</a>
+
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+
+## 🏟 SportNest
+
+
+A sports facility booking management system where users can explore facilities, make bookings, and manage reservations.
+
+
+### Technologies
+
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,tailwind"/>
+
+
+</td>
+
+
+
+<td width="50%" valign="top">
+
+
+## 🌍 Tourism Website
+
+
+A modern tourism platform focused on beautiful UI, responsive design, and smooth user experience.
+
+
+### Technologies
+
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+--- 
+<!-- ========================================= -->
+<!--             GITHUB STATISTICS             -->
+<!-- ========================================= -->
+
+
+## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Programing360&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programing360&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
 
 ---
 
 
-<h3>⭐ Thanks for visiting my profile!</h3>
+# 🔥 GitHub Streak
+
+
+<p align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Programing360&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+
+
+---
+
+
+# 📈 Contribution Activity
+
+
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Programing360&theme=tokyo-night"
+/>
+
+</p>
+
+
+
+---
+
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img 
+src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
+/>
+
+</p>
+
+
+
+---
+
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### Let's build something amazing together 🚀
+
+</p>
