@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Fardhan Hasan Limon;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Fardhan+Hasan+Limon;Full+Stack+Web+Developer;Building+Scalable+Digital+Products" alt="Typing Header" />
 </h1>
 
 <p align="center">
