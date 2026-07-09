@@ -294,18 +294,11 @@ A modern tourism platform focused on beautiful UI, responsive design, and smooth
 <!-- ========================================= -->
 
 
-## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Programing360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Programing360&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programing360&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+# 📊 GitHub Streak
 
 
----
-
-
-# 🔥 GitHub Streak
-
-
-<p align="center">
-
-<img 
+<p align="center"> <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=Programing360&theme=tokyonight&hide_border=true"
 />
 
