@@ -115,37 +115,31 @@ Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architectur
 
 --- 
 <!-- ========================================= -->
-<!--              PROJECT SECTION              -->
+<!--             SKILLS SECTION                -->
 <!-- ========================================= -->
-
 
 # 💻 Skills
 
 ## 🎨 Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase"/>
-
-</p>
----
-
-## ⚙️ Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux"/>
 </p>
 
 ---
 
-## 🛠 Tools
+## ⚙️ Backend & Databases
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+---
 
+## 🛠 Tools & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel"/>
 </p>
 
 ---
@@ -162,17 +156,11 @@ Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architectur
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:fardhanhasanlimon95@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
-
----
 
 # 📂 Featured Projects
 
