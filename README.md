@@ -54,9 +54,9 @@ alt="GitHub Followers"
 
 ## 👨‍💻 About Me
 
-I am a results-driven **MERN Stack & Next.js Developer** based in Bangladesh, specializing in engineering high-performance, user-centric web applications[cite: 1]. With expertise across the full software development lifecycle, I focus on building accessible frontend interfaces using React.js, Next.js, and TypeScript, backed by robust Node.js architectures and scalable database systems[cite: 1].
+I am a results-driven **MERN Stack & Next.js Developer** based in Bangladesh, specializing in engineering high-performance, user-centric web applications. With expertise across the full software development lifecycle, I focus on building accessible frontend interfaces using React.js, Next.js, and TypeScript, backed by robust Node.js architectures and scalable database systems.
 
-I excel at integrating AI capabilities into web platforms—such as automated classification engines and intelligent recommendation systems—to enhance user engagement and streamline workflow efficiency[cite: 1].
+I excel at integrating AI capabilities into web platforms—such as automated classification engines and intelligent recommendation systems—to enhance user engagement and streamline workflow efficiency.
 
 
 ---
@@ -66,11 +66,11 @@ I excel at integrating AI capabilities into web platforms—such as automated cl
 
 ## 🌱 Current Activities
 
-- 🔭 Architecting AI-integrated full-stack platforms, including multi-vendor e-commerce and personal finance analytics tools[cite: 1]
-- 🚀 Optimizing full-stack application performance with **Next.js App Router, Server Components, and Server Actions**[cite: 1]
-- 📚 Enhancing database architectures with **MongoDB, PostgreSQL, and Redis** for real-time and event-driven data handling[cite: 1]
-- ⚡ Refining CI/CD pipelines, containerization using **Docker**, and automated testing with **Jest**[cite: 1]
-- 💼 Open to **Frontend, Full Stack, or MERN Stack Developer** opportunities[cite: 1]
+- 🔭 Architecting AI-integrated full-stack platforms, including multi-vendor e-commerce and personal finance analytics tools
+- 🚀 Optimizing full-stack application performance with **Next.js App Router, Server Components, and Server Actions**
+- 📚 Enhancing database architectures with **MongoDB, PostgreSQL, and Redis** for real-time and event-driven data handling
+- ⚡ Refining CI/CD pipelines, containerization using **Docker**, and automated testing with **Jest**
+- 💼 Open to **Frontend, Full Stack, or MERN Stack Developer** opportunities
 
 
 ---
@@ -84,21 +84,21 @@ I excel at integrating AI capabilities into web platforms—such as automated cl
 
 ### 💻 Core Capabilities
 
-- **Frontend Architecture:** Responsive UI/UX, SSR/CSR, State Management (Redux Toolkit)[cite: 1]
-- **Backend & APIs:** RESTful API Design, Microservices, Event-Driven Systems[cite: 1]
-- **Authentication & Security:** Role-Based Access Control (RBAC), OAuth, JWT, Better Auth[cite: 1]
-- **AI Integration:** LLM Implementations (Groq AI), Multimodal Vision Pipelines, Recommendation Engines[cite: 1]
-- **Databases & Storage:** Schema Design, Atomic Database Operations, Query Optimization[cite: 1]
-- **DevOps & Testing:** Docker Containerization, CI/CD Workflows, Unit Testing with Jest[cite: 1]
+- **Frontend Architecture:** Responsive UI/UX, SSR/CSR, State Management (Redux Toolkit)
+- **Backend & APIs:** RESTful API Design, Microservices, Event-Driven Systems
+- **Authentication & Security:** Role-Based Access Control (RBAC), OAuth, JWT, Better Auth
+- **AI Integration:** LLM Implementations (Groq AI), Multimodal Vision Pipelines, Recommendation Engines
+- **Databases & Storage:** Schema Design, Atomic Database Operations, Query Optimization
+- **DevOps & Testing:** Docker Containerization, CI/CD Workflows, Unit Testing with Jest
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Key Projects
 
-- **VenRaz:** AI-Powered Multi-Vendor E-Commerce Platform[cite: 1]
-- **SmartWallet AI:** Personal Finance Analytics with Groq LLM[cite: 1]
-- **Zeroomiro:** Interactive E-Commerce Experience with AI Chatbot[cite: 1]
+- **VenRaz:** AI-Powered Multi-Vendor E-Commerce Platform
+- **SmartWallet AI:** Personal Finance Analytics with Groq LLM
+- **Zeroomiro:** Interactive E-Commerce Experience with AI Chatbot
 
 </td>
 </tr>
