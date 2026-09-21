@@ -54,11 +54,9 @@ alt="GitHub Followers"
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** from **Bangladesh** who loves building modern, responsive, and scalable web applications.
+I am a results-driven **MERN Stack & Next.js Developer** based in Bangladesh, specializing in engineering high-performance, user-centric web applications[cite: 1]. With expertise across the full software development lifecycle, I focus on building accessible frontend interfaces using React.js, Next.js, and TypeScript, backed by robust Node.js architectures and scalable database systems[cite: 1].
 
-I specialize in creating clean frontend experiences and efficient backend systems using modern technologies.
-
-Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architecture, and Database Design** while looking for opportunities to grow as a software developer.
+I excel at integrating AI capabilities into web platforms—such as automated classification engines and intelligent recommendation systems—to enhance user engagement and streamline workflow efficiency[cite: 1].
 
 
 ---
@@ -68,12 +66,11 @@ Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architectur
 
 ## 🌱 Current Activities
 
-- 🔭 Exploring **Next.js App Router & Server Components**
-- 🚀 Building a **Tourism Website with modern UI/UX**
-- 📚 Learning **TypeScript, PostgreSQL & System Design**
-- ⚡ Improving **Data Structures and Problem Solving Skills**
-- 💼 Looking for **Frontend / Full Stack Developer opportunities**
-- 🧠 Exploring AI integration with modern web applications
+- 🔭 Architecting AI-integrated full-stack platforms, including multi-vendor e-commerce and personal finance analytics tools[cite: 1]
+- 🚀 Optimizing full-stack application performance with **Next.js App Router, Server Components, and Server Actions**[cite: 1]
+- 📚 Enhancing database architectures with **MongoDB, PostgreSQL, and Redis** for real-time and event-driven data handling[cite: 1]
+- ⚡ Refining CI/CD pipelines, containerization using **Docker**, and automated testing with **Jest**[cite: 1]
+- 💼 Open to **Frontend, Full Stack, or MERN Stack Developer** opportunities[cite: 1]
 
 
 ---
@@ -85,33 +82,27 @@ Currently, I'm improving my skills in **Next.js, TypeScript, Backend Architectur
 
 <td width="50%" valign="top">
 
-### 💻 What I Build
+### 💻 Core Capabilities
 
-- Responsive Web Applications
-- Full Stack Applications
-- RESTful APIs
-- Authentication Systems
-- E-commerce Platforms
-- Dashboard Applications
+- **Frontend Architecture:** Responsive UI/UX, SSR/CSR, State Management (Redux Toolkit)[cite: 1]
+- **Backend & APIs:** RESTful API Design, Microservices, Event-Driven Systems[cite: 1]
+- **Authentication & Security:** Role-Based Access Control (RBAC), OAuth, JWT, Better Auth[cite: 1]
+- **AI Integration:** LLM Implementations (Groq AI), Multimodal Vision Pipelines, Recommendation Engines[cite: 1]
+- **Databases & Storage:** Schema Design, Atomic Database Operations, Query Optimization[cite: 1]
+- **DevOps & Testing:** Docker Containerization, CI/CD Workflows, Unit Testing with Jest[cite: 1]
 
 </td>
-
-
 <td width="50%" valign="top">
 
-### 🚀 What I Improve
+### 🚀 Key Projects
 
-- Clean Code Architecture
-- Performance Optimization
-- Database Design
-- UI/UX Experience
-- Scalable Backend Systems
+- **VenRaz:** AI-Powered Multi-Vendor E-Commerce Platform[cite: 1]
+- **SmartWallet AI:** Personal Finance Analytics with Groq LLM[cite: 1]
+- **Zeroomiro:** Interactive E-Commerce Experience with AI Chatbot[cite: 1]
 
 </td>
-
 </tr>
 </table>
-
 
 --- 
 <!-- ========================================= -->
